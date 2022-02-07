@@ -34,7 +34,7 @@ namespace Catalog.Controllers
         }
 
         [HttpPost]
-        public ActionResult<ItemDto> CreateItem (CreateItemDto itemDto)
+        public ActionResult<CreateItemDto> CreateItem (CreateItemDto itemDto)
         {
             var item = new Item(){
                 Id = Guid.NewGuid(), 
@@ -44,6 +44,22 @@ namespace Catalog.Controllers
             };
             _itemsRepository.Add(item);
             return CreatedAtAction(nameof(GetById), new { id = item.Id }, item.AsDto());
+        }
+
+        [HttpPut("{id}")]
+        public ActionResult UpdateItem(Guid id, UpdateItemDto itemDto)
+        {
+            var item = _itemsRepository.GetById(id);
+            if(item == null)
+            {
+                return NotFound();
+            }
+            var UpdateItem = item with{
+                Name = itemDto.Name,
+                Price = itemDto.Price
+            };
+            _itemsRepository.Update(UpdateItem);
+            return NoContent();
         }
     }
 }
