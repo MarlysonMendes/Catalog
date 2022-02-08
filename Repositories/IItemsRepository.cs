@@ -9,5 +9,6 @@ namespace Catalog.Repositories
         Item GetById(Guid id);
         void Remove(Guid id);
         void Update(Item item);
+        void Delete(Guid id);
     }
 }

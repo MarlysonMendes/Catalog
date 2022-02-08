@@ -61,5 +61,17 @@ namespace Catalog.Controllers
             _itemsRepository.Update(UpdateItem);
             return NoContent();
         }
+
+        [HttpDelete("{id}")]
+        public ActionResult DeleteItem(Guid id)
+        {
+            var item = _itemsRepository.GetById(id);
+            if(item == null)
+            {
+                return NotFound();
+            }
+            _itemsRepository.Delete(id);
+            return NoContent();
+        }
     }
 }
