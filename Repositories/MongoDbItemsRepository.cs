@@ -1,6 +1,4 @@
 using Catalog.Model;
-using System.Collections.Generic;
-using Catalog.Model;
 using MongoDB.Driver;
 
 namespace Catalog.Repositories
@@ -17,34 +15,36 @@ namespace Catalog.Repositories
             itemsCollection = database.GetCollection<Item>(collectionName);
 
         }
-        public void Add(Item item)
+        public async Task Add(Item item)
         {
-            itemsCollection.InsertOne(item);
+            await itemsCollection.InsertOneAsync(item);
         }
 
-        public void Delete(Guid id)
-        {
-            throw new NotImplementedException();
+        public async Task <IEnumerable<Item>> GetItemsAsync()
+        {   
+            
+            return await itemsCollection.Find( _ => true).ToListAsync();
         }
 
-        public IEnumerable<Item> GetAll()
+        public async Task<Item> GetItemAsync(Guid id)
         {
-            throw new NotImplementedException();
+            var filter = Builders<Item>.Filter.Eq(item => item.Id,id);
+            return await itemsCollection.Find(filter).SingleOrDefaultAsync();
+            //return itemsCollection.Find( item => item.Id == id).SingleOrDefault();
         }
 
-        public Item GetById(Guid id)
+        public async Task DeleteItemAsync(Guid id)
         {
-            throw new NotImplementedException();
+            var filter = Builders<Item>.Filter.Eq(item => item.Id,id);
+            await itemsCollection.DeleteOneAsync(filter);
         }
 
-        public void Remove(Guid id)
+        public async Task UpdateItemAsync(Item item)
         {
-            throw new NotImplementedException();
-        }
-
-        public void Update(Item item)
-        {
-            throw new NotImplementedException();
+            var filter = Builders<Item>.Filter.Eq(existingItem => existingItem.Id, item.Id);
+            
+            await itemsCollection.ReplaceOneAsync(filter, item);
+            
         }
     }
 }
