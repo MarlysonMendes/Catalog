@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marlyson\\Desktop\\Projetos\\Agenda\\Catalog\\Catalog.csproj": {}
+    "c:\\Users\\Marlyson\\Desktop\\Projetos\\Agenda\\Catalog\\Catalog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marlyson\\Desktop\\Projetos\\Agenda\\Catalog\\Catalog.csproj": {
+    "c:\\Users\\Marlyson\\Desktop\\Projetos\\Agenda\\Catalog\\Catalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marlyson\\Desktop\\Projetos\\Agenda\\Catalog\\Catalog.csproj",
+        "projectUniqueName": "c:\\Users\\Marlyson\\Desktop\\Projetos\\Agenda\\Catalog\\Catalog.csproj",
         "projectName": "Catalog",
-        "projectPath": "C:\\Users\\Marlyson\\Desktop\\Projetos\\Agenda\\Catalog\\Catalog.csproj",
+        "projectPath": "c:\\Users\\Marlyson\\Desktop\\Projetos\\Agenda\\Catalog\\Catalog.csproj",
         "packagesPath": "C:\\Users\\Marlyson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marlyson\\Desktop\\Projetos\\Agenda\\Catalog\\obj\\",
+        "outputPath": "c:\\Users\\Marlyson\\Desktop\\Projetos\\Agenda\\Catalog\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,6 +45,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AspNetCore.HealthChecks.MongoDb": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "MongoDB.Driver": {
               "target": "Package",
               "version": "[2.14.1, )"

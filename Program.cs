@@ -6,6 +6,11 @@ using MongoDB.Bson.Serialization;
 using MongoDB.Bson.Serialization.Serializers;
 using MongoDB.Bson;
 using System.Text.Json.Nodes;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Diagnostics.HealthChecks;
+using System.Text.Json;
+using Microsoft.AspNetCore.Mvc.Formatters;
+using System.Net.Mime;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -37,6 +42,13 @@ builder.Services.AddControllers(options =>{
     options.SuppressAsyncSuffixInActionNames = false;
 });
 
+builder.Services.AddHealthChecks()
+    .AddMongoDb(
+        connection.ConnectionString, 
+        name:"mongodb", 
+        timeout: TimeSpan.FromSeconds(3),
+        tags: new[] {"ready"});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -51,5 +63,25 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.MapHealthChecks("/health/ready", new HealthCheckOptions
+{
+    Predicate = (check) => check.Tags.Contains("ready"),
+    ResponseWriter = async(context, report) =>
+    {
+        var result = JsonSerializer.Serialize(new 
+        {
+            status = report.Status.ToString(),
+            checks = report.Entries.Select(e => new {
+                name = e.Key,
+                status = e.Value.ToString(),
+                exception = e.Value.Exception != null ? e.Value.Exception.Message : "none",
+                duration = e.Value.Duration.ToString()
+            })
+        });
+        context.Response.ContentType = MediaTypeNames.Application.Json;
+        await context.Response.WriteAsync(result);
+    }
+});
 
 app.Run();
