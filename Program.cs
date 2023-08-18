@@ -5,6 +5,7 @@ using Microsoft.Extensions.Configuration;
 using MongoDB.Bson.Serialization;
 using MongoDB.Bson.Serialization.Serializers;
 using MongoDB.Bson;
+using System.Text.Json.Nodes;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,13 +18,17 @@ builder.Services.AddSwaggerGen();
 BsonSerializer.RegisterSerializer(new GuidSerializer(BsonType.String));
 BsonSerializer.RegisterSerializer(new DateTimeOffsetSerializer(BsonType.String));
 
+    var settings = builder.Configuration.GetSection(nameof(MongoDbSettings));
+    var connection = new MongoDbSettings
+    {
+        Host = settings["Host"],
+        Port = Convert.ToInt16( settings["Port"]),
+        User = settings["User"],
+        Password = settings["Password"],
+    };
+
 builder.Services.AddSingleton<IMongoClient>(ServiceProvider => {
-    IConfiguration config = new ConfigurationBuilder()
-        .AddJsonFile("appsettings.json")
-        .Build();
-    var settings = config.GetSection(nameof(MongoDbSettings))
-    .Get<MongoDbSettings>();
-    var client = new MongoClient(settings.ConnectionString);
+    var client = new MongoClient(connection.ConnectionString);
     return client;
 });
 builder.Services.AddSingleton<IItemsRepository, MongoDbItemsRepository>();
