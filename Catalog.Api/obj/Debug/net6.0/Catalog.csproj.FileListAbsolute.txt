@@ -1,0 +1,146 @@
+C:\Users\marly\Desktop\Projetos .NET\Catalog\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\marly\Desktop\Projetos .NET\Catalog\bin\Debug\net6.0\appsettings.json
+C:\Users\marly\Desktop\Projetos .NET\Catalog\bin\Debug\net6.0\Catalog.exe
+C:\Users\marly\Desktop\Projetos .NET\Catalog\bin\Debug\net6.0\Catalog.deps.json
+C:\Users\marly\Desktop\Projetos .NET\Catalog\bin\Debug\net6.0\Catalog.runtimeconfig.json
+C:\Users\marly\Desktop\Projetos .NET\Catalog\bin\Debug\net6.0\Catalog.dll
+C:\Users\marly\Desktop\Projetos .NET\Catalog\bin\Debug\net6.0\ref\Catalog.dll
+C:\Users\marly\Desktop\Projetos .NET\Catalog\bin\Debug\net6.0\Catalog.pdb
+C:\Users\marly\Desktop\Projetos .NET\Catalog\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\marly\Desktop\Projetos .NET\Catalog\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marly\Desktop\Projetos .NET\Catalog\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marly\Desktop\Projetos .NET\Catalog\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marly\Desktop\Projetos .NET\Catalog\obj\Debug\net6.0\Catalog.csproj.AssemblyReference.cache
+C:\Users\marly\Desktop\Projetos .NET\Catalog\obj\Debug\net6.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marly\Desktop\Projetos .NET\Catalog\obj\Debug\net6.0\Catalog.AssemblyInfoInputs.cache
+C:\Users\marly\Desktop\Projetos .NET\Catalog\obj\Debug\net6.0\Catalog.AssemblyInfo.cs
+C:\Users\marly\Desktop\Projetos .NET\Catalog\obj\Debug\net6.0\Catalog.csproj.CoreCompileInputs.cache
+C:\Users\marly\Desktop\Projetos .NET\Catalog\obj\Debug\net6.0\Catalog.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marly\Desktop\Projetos .NET\Catalog\obj\Debug\net6.0\Catalog.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marly\Desktop\Projetos .NET\Catalog\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\marly\Desktop\Projetos .NET\Catalog\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\marly\Desktop\Projetos .NET\Catalog\obj\Debug\net6.0\scopedcss\bundle\Catalog.styles.css
+C:\Users\marly\Desktop\Projetos .NET\Catalog\obj\Debug\net6.0\Catalog.csproj.CopyComplete
+C:\Users\marly\Desktop\Projetos .NET\Catalog\obj\Debug\net6.0\Catalog.dll
+C:\Users\marly\Desktop\Projetos .NET\Catalog\obj\Debug\net6.0\ref\Catalog.dll
+C:\Users\marly\Desktop\Projetos .NET\Catalog\obj\Debug\net6.0\Catalog.pdb
+C:\Users\marly\Desktop\Projetos .NET\Catalog\obj\Debug\net6.0\Catalog.genruntimeconfig.cache
+C:\Users\marly\Desktop\Projetos .NET\Catalog\bin\Debug\net6.0\DnsClient.dll
+C:\Users\marly\Desktop\Projetos .NET\Catalog\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\marly\Desktop\Projetos .NET\Catalog\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\marly\Desktop\Projetos .NET\Catalog\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\marly\Desktop\Projetos .NET\Catalog\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\marly\Desktop\Projetos .NET\Catalog\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\marly\Desktop\Projetos .NET\Catalog\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+C:\Users\marly\Desktop\Projetos .NET\Catalog\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+C:\Users\marly\Desktop\Projetos .NET\Catalog\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\marly\Desktop\Projetos .NET\Catalog\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+C:\Users\marly\Desktop\Projetos .NET\Catalog\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+C:\Users\marly\Desktop\Projetos .NET\Catalog\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+C:\Users\marly\Desktop\Projetos .NET\Catalog\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+C:\Users\marly\Desktop\Projetos .NET\Catalog\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\marly\Desktop\Projetos .NET\Catalog\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\marly\Desktop\Projetos .NET\Catalog\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\bin\Debug\net6.0\appsettings.json
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\bin\Debug\net6.0\Catalog.exe
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\bin\Debug\net6.0\Catalog.deps.json
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\bin\Debug\net6.0\Catalog.runtimeconfig.json
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\bin\Debug\net6.0\Catalog.dll
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\bin\Debug\net6.0\Catalog.pdb
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\bin\Debug\net6.0\DnsClient.dll
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\obj\Debug\net6.0\Catalog.csproj.AssemblyReference.cache
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\obj\Debug\net6.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\obj\Debug\net6.0\Catalog.AssemblyInfoInputs.cache
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\obj\Debug\net6.0\Catalog.AssemblyInfo.cs
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\obj\Debug\net6.0\Catalog.csproj.CoreCompileInputs.cache
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\obj\Debug\net6.0\Catalog.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\obj\Debug\net6.0\Catalog.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\obj\Debug\net6.0\staticwebassets\msbuild.Catalog.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\obj\Debug\net6.0\staticwebassets\msbuild.build.Catalog.props
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Catalog.props
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Catalog.props
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\obj\Debug\net6.0\scopedcss\bundle\Catalog.styles.css
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\obj\Debug\net6.0\Catalog.csproj.CopyComplete
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\obj\Debug\net6.0\Catalog.dll
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\obj\Debug\net6.0\refint\Catalog.dll
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\obj\Debug\net6.0\Catalog.pdb
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\obj\Debug\net6.0\Catalog.genruntimeconfig.cache
+C:\Users\Marlyson\Desktop\Projetos\Agenda\Catalog\obj\Debug\net6.0\ref\Catalog.dll
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\Catalog.exe
+c:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\Catalog.deps.json
+c:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\Catalog.runtimeconfig.json
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\Catalog.dll
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\Catalog.pdb
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\HealthChecks.MongoDb.dll
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\DnsClient.dll
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\Snappier.dll
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\obj\Debug\net6.0\Catalog.csproj.AssemblyReference.cache
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\obj\Debug\net6.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\obj\Debug\net6.0\Catalog.AssemblyInfoInputs.cache
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\obj\Debug\net6.0\Catalog.AssemblyInfo.cs
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\obj\Debug\net6.0\Catalog.csproj.CoreCompileInputs.cache
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\obj\Debug\net6.0\Catalog.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\obj\Debug\net6.0\Catalog.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\obj\Debug\net6.0\staticwebassets\msbuild.Catalog.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Catalog.props
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Catalog.props
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Catalog.props
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\obj\Debug\net6.0\scopedcss\bundle\Catalog.styles.css
+c:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\obj\Debug\net6.0\Catalog.csproj.CopyComplete
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\obj\Debug\net6.0\Catalog.dll
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\obj\Debug\net6.0\refint\Catalog.dll
+C:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\obj\Debug\net6.0\Catalog.pdb
+c:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\obj\Debug\net6.0\Catalog.genruntimeconfig.cache
+c:\Users\Marlyson\Desktop\Projetos\Catalog\Catalog.Api\obj\Debug\net6.0\ref\Catalog.dll
